@@ -62,7 +62,7 @@ VerFuzzer-main/
 The directory structure of the document is as follows. After adding the API, you can run the command below to execute:
 ```bash run.sh <outputdir> <number>```
 ***
-## These are the errors we have discovered (./errors)
+## These are the bugs we have discovered (./errors)
 | ID    | Summary                                                                     | Software |
 |-------|-----------------------------------------------------------------------------|----------|
 | error1  | Yosys Mishandles Bit Operations on Empty Strings                            | Yosys    |
